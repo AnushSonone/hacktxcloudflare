@@ -7,5 +7,5 @@ bindings = [{ name = "RACE_DO", class_name = "RaceDO" }]
 
 [[migrations]]
 tag = "v1"
-new_classes = ["RaceDO"]
+new_sqlite_classes = ["RaceDO"]
 
